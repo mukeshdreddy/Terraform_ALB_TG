@@ -37,5 +37,5 @@ Terraform plan --> Best to check the before applying the changes peer review.
 
 Terraform apply --> Changes will be appiled.
 
-Terraform destory --> On the Testing process I've Iomported the Subnets to the Terraform Script. For the changes when I appy
+Terraform destory --> On the Testing process I haven't Imported the Subnets to the Terraform Script. For the changes when I appy
                       Terraform destroy subnet and Vpc Id changes has been noticed and agian have to add the new ID's in Terraform Script. 
